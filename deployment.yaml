@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: devops-app
-        image: goravasiva/devops-flask-app:b2beb7cc77b4b75cd1a667c2cfd09a0576c5c72f
+        image: goravasiva/devops-flask-app:5942b41288b3d2ec634ebe5c6d0a6a0f68b6ffde
         ports:
         - containerPort: 5000
