@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: devops-app
-        image: yourdockerhub/devops-flask-app:latest
+        image: goravasiva/devops-flask-app:377ff78cadd2ee61acb952869ba4d9faa3ac8c46
         ports:
         - containerPort: 5000
